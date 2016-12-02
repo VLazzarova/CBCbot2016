@@ -1,0 +1,560 @@
+{
+  "info": {
+      "events":[
+        {
+          "image_url":"https://c2.staticflickr.com/6/5067/30122225282_b17357fc9c_o.png",
+          "time":"08:30",
+          "speaker":"Open doors & Check in",
+          "company":"",
+          "topic":"",
+          "stage":"Main Stage",
+          "payload":"open doors"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5627/30237211975_abb2668e82_o.png",
+          "time":"10:15",
+          "speaker":"Welcome!",
+          "company":"",
+          "topic":"Welcome to #CBC16 & Keynote",
+          "stage":"Main Stage",
+          "payload":"welcome"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5762/29940540240_b70743cf9d_o.png",
+          "time":"10:40",
+          "speaker":"Amir Shevat (Slack)",
+          "company":"Slack",
+          "topic":"Bot Anatomy",
+          "stage":"Main Stage",
+          "payload":"Amir Shevat"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5042/30202268656_a9fc4aeb1c_o.png",
+          "time":"11:10",
+          "speaker":"Christoph Auer-Welsbach (IBM)",
+          "company":"IBM",
+          "topic":"Talking with Technology",
+          "stage":"Main Stage",
+          "payload":"Christoph Auer-Welsbach"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5634/30151616011_a1afd53164_o.png",
+          "time":"11:40",
+          "speaker":"Ido Iungelson (Viber)",
+          "company":"Viber",
+          "topic":"Bots, the Unspoken Challenge",
+          "stage":"Main Stage",
+          "payload":"Ido Iungelson"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5030/29940539930_83c5414a05_o.png",
+          "time":"12:10",
+          "speaker":"Break",
+          "compnay":"",
+          "topic":"😌",
+          "stage":"Main Stage",
+          "payload":"break"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8137/30202268836_72067ecca9_o.png",
+          "time":"13:00",
+          "speaker":"Toby Bradshaw (Microsoft)",
+          "company":"Microsoft",
+          "topic":"Microsoft Bot Framework",
+          "stage":"Main Stage",
+          "payload":"Toby Bradshaw"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5161/30202268446_f8dd1ab13c_o.png",
+          "time":"13:30",
+          "speaker":"Mikhail Larionov (Messenger)",
+          "compnay":"Messenger",
+          "topic":"The Today and Tomorrow of Messenger Plattform",
+          "stage":"Main Stage",
+          "payload":"Mikhail Larionov"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8127/30202268316_e3c3d8c3d5_o.png",
+          "time":"14:00",
+          "speaker":"Martin Raison (wit.ai)",
+          "compnay":"wit.ai",
+          "topic":"Towards truly Conversational Interfaces",
+          "stage":"Main Stage",
+          "payload":"Martin Raison"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5030/29940539930_83c5414a05_o.png",
+          "time":"14:30",
+          "speaker":"Break",
+          "compnay":"",
+          "topic":"😌",
+          "stage":"Main Stage",
+          "payload":"break"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5305/29940538730_1f3329eace_o.png",
+          "time":"15:15",
+          "speaker":"Behshad Behzadi (Google)",
+          "compnay":"Google",
+          "topic":"The Future of Search",
+          "stage":"Main Stage",
+          "payload":"Behshad Behzadi"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8412/30202268566_7c15a9c123_o.png",
+          "time":"15:45",
+          "speaker":"JoseLuis Takahashi (LINE)",
+          "compnay":"LINE",
+          "topic":"The Future of LINE BOT Platform",
+          "stage":"Main Stage",
+          "payload":"JoseLuis Takahashi"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5030/29940539930_83c5414a05_o.png",
+          "time":"16:15",
+          "speaker":"Break",
+          "compnay":"",
+          "topic":"😌",
+          "stage":"Main Stage",
+          "payload":"break"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5805/30237076625_54d18b8f85_o.png",
+          "time":"17:00",
+          "speaker":"Panel discussion",
+          "compnay":"",
+          "topic":"",
+          "stage":"Main Stage",
+          "payload":"panel"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8410/29940538390_da20c5a419_o.png",
+          "time":"18:00",
+          "speaker":"This was #CBC16 & oratio Announcement",
+          "compnay":"",
+          "topic":"",
+          "stage":"Main Stage",
+          "payload":"ending"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8680/30237076615_b0f88dfc22_o.png",
+          "time":"18:20",
+          "speaker":"Networking 🍻",
+          "compnay":"",
+          "topic":"",
+          "stage":"Main Stage",
+          "payload":"networking"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5248/29940540370_b66923e093_o.png",
+          "time":"22:00",
+          "speaker":"Afterparty",
+          "compnay":"",
+          "topic":"",
+          "stage":"Main Stage",
+          "payload":"afterparty"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5067/30122225282_b17357fc9c_o.png",
+          "time":"08:30",
+          "speaker":"Open doors & Check in",
+          "compnay":"",
+          "topic":"🚪 📃",
+          "stage":"Master Class",
+          "payload":"open doors"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5627/30237211975_abb2668e82_o.png",
+          "time":"10:15",
+          "speaker":"Welcome!",
+          "compnay":"",
+          "topic":"Welcome to #CBC16 & Keynote",
+          "stage":"Master Class",
+          "payload":"welcome"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5026/29940539720_61b24b8140_o.png",
+          "time":"10:40",
+          "speaker":"Matty Mariansky (Meekan)",
+          "compnay":"Meekan",
+          "topic":"Convesation Design from Zero to Hero",
+          "stage":"Master Class",
+          "payload":"Matty Mariansky"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5544/30151616051_c8df68a0a8_o.png",
+          "time":"11:05",
+          "speaker":"Alexander Weidauer (LastMile)",
+          "compnay":"LastMile",
+          "topic":"Bots overtaking Apps? Here is what it will take",
+          "stage":"Master Class",
+          "payload":"Alexander Weidauer"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8616/29940539230_173dbd072b_o.png",
+          "time":"11:30",
+          "speaker":"Lemmings I/O",
+          "compnay":"",
+          "topic":"Final Presentations",
+          "stage":"Master Class",
+          "payload":"lemmings"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5030/29940539930_83c5414a05_o.png",
+          "time":"12:00",
+          "speaker":"Break",
+          "compnay":"",
+          "topic":"😌",
+          "stage":"Main Stage",
+          "payload":"break"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5639/29940539510_b675f6c688_o.png",
+          "time":"13:00",
+          "speaker":"Alex Bunardzic (Staples Inc.)",
+          "compnay":"Staples Inc.",
+          "topic":"How to avoid a Pyramid of Doom when designing a Bot Workflows",
+          "stage":"Master Class",
+          "payload":"Alex Bunardzic"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5541/30237076845_0c0a90b55e_o.png",
+          "time":"13:25",
+          "speaker":"Jakob Reiter (The Ventory)",
+          "compnay":"The Ventory",
+          "topic":"Launching the Austrian Airlines Bot and Europe's first Bot-Accelerator",
+          "stage":"Master Class",
+          "payload":"Jakob Reiter"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8553/30237076975_b4e5257626_o.png",
+          "time":"13:50",
+          "speaker":"Barbara M. & Peter B. (Swell)",
+          "compnay":"Swell",
+          "topic":"How Multi-Platform thinking helped us to reach 100k Users in one Month",
+          "stage":"Master Class",
+          "payload":"Barbara Macinkovic"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5589/30151616181_5d0d0fc4c7_o.png",
+          "time":"14:15",
+          "speaker":"Alexandra Neczliova (Sure)",
+          "compnay":"Sure",
+          "topic":"Bot Etiquette for Humans",
+          "stage":"Master Class",
+          "payload":"Alexandra Neczliova"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5756/30202268896_0dd516f81a_o.png",
+          "time":"14:40",
+          "speaker":"Alex Braumann(Cisco Spark)",
+          "compnay":"Cisco Spark",
+          "topic":"Messaging (and more) that ties into a huge Enterprise Ecosystem",
+          "stage":"Master Class",
+          "payload":"Alex Braumann"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5483/29940538550_8ff58dcb1e_o.png",
+          "time":"15:05",
+          "speaker":"Greg Leuch (Poncho)",
+          "compnay":"Poncho",
+          "topic":"The Making of Poncho",
+          "stage":"Master Class",
+          "payload":"Greg Leuch"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8750/29940538610_d7e299ffee_o.png",
+          "time":"15:30",
+          "speaker":"Sohan Maheshwar (Gupshup)",
+          "compnay":"Gupshup",
+          "topic":"The Lifecycle of a Bot",
+          "stage":"Master Class",
+          "payload":"Sohan Maheshwar"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8412/30202268726_1aebf9e8aa_o.png",
+          "time":"15:55",
+          "speaker":"Gregor Jarisch (EDDI)",
+          "compnay":"EDDI",
+          "topic":"Release of the First Austrian Open Source Chatbot Platform",
+          "stage":"Master Class",
+          "payload":"Gregor Jarisch"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5030/29940539930_83c5414a05_o.png",
+          "time":"16:20",
+          "speaker":"Break",
+          "compnay":"",
+          "topic":"😌",
+          "stage":"Master Class",
+          "payload":"break"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5805/30237076625_54d18b8f85_o.png",
+          "time":"17:00",
+          "speaker":"Panel discussion",
+          "compnay":"",
+          "topic":"",
+          "stage":"Master Class",
+          "payload":"panel"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8410/29940538390_da20c5a419_o.png",
+          "time":"18:00",
+          "speaker":"This was #CBC16 & oratio Announcement",
+          "compnay":"",
+          "topic":"",
+          "stage":"Master Class",
+          "payload":"ending"
+        },
+        {
+          "image_url":"https://c1.staticflickr.com/9/8680/30237076615_b0f88dfc22_o.png",
+          "time":"18:20",
+          "speaker":"Networking 🍻",
+          "compnay":"",
+          "topic":"",
+          "stage":"Master Class",
+          "payload":"networking"
+        },
+        {
+          "image_url":"https://c2.staticflickr.com/6/5248/29940540370_b66923e093_o.png",
+          "time":"22:00",
+          "speaker":"Afterparty",
+          "compnay":"",
+          "topic":"",
+          "stage":"Master Class",
+          "payload":"afterparty"
+        }
+      ],
+    "speakers":[
+      {
+        "image_url":"https://c2.staticflickr.com/6/5735/29561425903_efc9c62647_o.png",
+        "name":"Mikhail Larionov",
+        "info":"Mikhail has been making software and games for the last 12 years. Currently he is a tech lead on Messenger Platform. He helped to evolve the platform from it's early days to public launch.",
+        "talk":"He will talk about “The Today and Tomorrow of Messenger Plattform” at 13:30, Main Stage",
+        "stage":"Main Stage"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/6/5309/30155896336_dc818504be_o.png",
+        "name":"Toby Bradshaw",
+        "info":"Toby works on cross-platform mobile development using the Marmalade SDK. C++, Objective-C, Python, iOS, Android. HTML5, Javascript. Multi-threading, high-performance computing. Realtime 3D. IP Protocols. His specialties: C/C++, Python, TCP/IP, STL/Boost, Multi-threading",
+        "talk":"He will talk about “Microsoft Bot Framework at 10:40, Main Stage”",
+        "stage":"Main Stage"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/6/5715/29561426083_96c92d1f87_o.png",
+        "name":"Ido Iungelson",
+        "info":"Ido is a  Director of Revenue & Operations at Viber. He is responsible for initiating, planning and managing the execution of cross company projects. He’s working with Product, Marketing and other functions in the company to enhance existing and introduce new B2C products.",
+        "talk":"His talk is about “Bots, the Unspoken Challenge” at 11:40 on Main Stage",
+        "stage":"Main Stage"
+      },
+      {
+        "image_url":"https://c1.staticflickr.com/9/8675/30155896806_9048bb93cc_o.png",
+        "name":"JoseLuis Takahashi",
+        "info":"JoseLuis is leading a technical consulting team which support LINE Platform world wide. His role responsibilities are  from consulting new features and APIs for the platform and  technical support of LINE platform to creating integration samples for iOS, Android and server side.",
+        "talk":"He will talk about “The Future of the LINE Bot Platform” at 15:45 on Main Stage ",
+        "stage":"Main Stage"
+      },
+      {
+        "image_url":"https://c1.staticflickr.com/9/8135/29894696670_441f373ae9_o.png",
+        "name":"Amir Shevat",
+        "info":"Amir is the head of developer relations at Slack. Previously Amir was the global Startup Outreach lead in Google Play and led scalable programs in Developer Relations and Google Campus Tel Aviv. He is a developer at heart with a passion for b2c and mobile.",
+        "talk":"He will talk about “Bot Anatomy” at 10:40 on Main Stage",
+        "stage":"Main Stage"
+      },
+      {
+        "image_url":"https://c1.staticflickr.com/9/8742/29894696370_5d8f56ef6f_o.png",
+        "name":"Christoph Auer-Welsbach",
+        "info":"Christoph is leading IBM Watson Partner Innovations Europe, running the global applied A.I. community City.AI as well as co-founded the applied AI events Berlin AI, Amsterdam AI and NewYork AI, and curating the Startup Digest Amsterdam. Besides, he’s advising technology ecosystems, venture capital firms, and startups.",
+        "talk":"He will talk about “Talking with Technology” at 11:10 on Main Stage",
+        "stage":"Main Stage"
+      },
+      {
+        "image_url":"https://c1.staticflickr.com/9/8550/29894696560_f6f0c327ef_o.png",
+        "name":"Behshad Behzadi",
+        "info":"Behshad Behzadi is a Principal Engineer at Google Search. Most recently, Behshad leads a team facing one of the company’s most challenging computer science projects: to help make interactions with Google easier by using natural voice conversations that understand you and your context.",
+        "talk":"His talk is about “The Future of Search” at 15:15 on Main Stage",
+        "stage":"Main Stage"
+      },
+      {
+        "image_url":"https://c1.staticflickr.com/9/8693/29561425973_92d0205030_o.png",
+        "name":"Martin Raison",
+        "info":"Martin Raison is a Lead Engineer at wit.ai. Wit.ai s a Facebook company, building the AI platform that helps 45,000+ developers create apps that understand human language.",
+        "talk":"He will talk about “Towards truly Conversational Interfaces” at 14:00 on Main Stage",
+        "stage":"Main Stage"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/6/5222/29894696920_171b3b59db_o.png",
+        "name":"Alex Bunardzic",
+        "info":"Alex is responsible for the development lead at Staples Inc. He is experienced recruiter and manager, with over fifteen years in managing teams of software engineers, business analysts and project managers.",
+        "talk":"He will talk about “How to avoid a Pyramid of Doom when designing Bot Workflows ” at 13:00 on Master Class",
+        "stage":"Master Class"
+      },
+      {
+        "image_url":"https://c1.staticflickr.com/9/8139/30155898266_57580d5d58_o.png",
+        "name":"Alexandra Neczliova",
+        "info":"Alexandra is a startup enthusiast and bot lover with background in business, marketing and design thinking that slowly turned into tech and CX. At Sure, she's the Co-Founder & Head of CX",
+        "talk":"Alexandra will talk about “Bot Etiquette for Humans” at  14:15 on Mater Class",
+        "stage":"Master Class"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/6/5488/30155896606_20dbd774b8_o.png",
+        "name":"Matty Mariansky",
+        "info":"Matty Mariansky is Co-founder and  Product Designer at Meekan in Tel Aviv. He has designed everything from slot machines to financial news sites. Matty invented the “traffic light” system for smart, effortless casual wear.",
+        "talk":"His talk is about “Conversation Design from Zero to Hero” at 10:40 on Master Class",
+        "stage":"Master Class"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/6/5589/30155898746_9478f64577_o.png",
+        "name":"Alex Braumann",
+        "info":"Alex is responsible for driving end-customer revenue and daily active usage by finding new, strategic and repeatable routes to market in the EMEAR region and transform the existing ecosystem at Cisco. ",
+        "talk":"He will talk about “Messaging (and more) that ties into a huge Enterprise Ecosystem” at Master Class",
+        "stage":"Master Class"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/6/5585/29894696790_90fc946fb4_o.png",
+        "name":"Alexander Weidauer",
+        "info":"Alex is a Co-founder of LastMile. He studied Computer Science and Management at TU Berlin and the London School of Economics. Before founding LastMile, Alex worked for Project A Ventures and McKinsey.",
+        "talk":"His talk is about “Bots overtaking Apps? Here is what it will take” at 11:05 on Master Class",
+        "stage":"Master Class"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/6/5651/29561425843_0eeea61de1_o.png",
+        "name":"Sohan Maheshwar",
+        "info":"Sohan is a Computer Science graduate, former iPhone app developer. Currently he’s in-charge of developer relations at Gurshup. Loves coding, sports and the internet.",
+        "talk":"His talk is about “The Lifecycle of a Bot” at 15:30 on Master Class",
+        "stage":"Master Class"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/8/7551/30155897106_10cd71c685_o.png",
+        "name":"Gregor Jarisch",
+        "info":"Gregor has six years of Chatbot development experience in various industries (such as ecommerce, first-level-support, quality management, education). He is responsible for the  Development Lead at E.D.D.I.",
+        "talk":"Gregor will talk about “Release of the First Austrian Open Source Chatbot Platform” at 15:55 on Master Class",
+        "stage":"Master Class"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/6/5096/30107231291_02f221d207_o.png",
+        "name":"Barbara Macinkovic",
+        "info":"Barbara is a marketing manager at Swell. She’s responsible for Influencer Marketing, so her job is it to find the right Influencers, build long time relations and improve in house marketing strategies.",
+        "talk":"Barbara will talk about “How Multi-Platform thinking helped us to reach 100k Users in one Month” with her college Peter at 13:50 on Master Class",
+        "stage":"Master Class"
+      },
+      {
+        "image_url":"https://c1.staticflickr.com/9/8622/29894696210_2d459547a2_o.png",
+        "name":"Greg Leuch",
+        "info":"Greg Leuch is a creative designer, programmer, hacker, and artist based in New York City. Currently he is a head of Product at Poncho.",
+        "talk":"He will talk about “The Making of Poncho” at 15:05 on Master Class",
+        "stage":"Master Class"
+      },
+      {
+        "image_url":"https://c2.staticflickr.com/6/5252/29896297510_b776ddfbcd_o.png",
+        "name":"Jakob Reiter",
+        "info":"Jakob is Co-founder at TheVentury. He helps startups and established corporates to develop and enhance their bots. Jakob is also the Curator of the BotSpot Vienna community and as such organiser of the monthly Bots Meetup.",
+        "talk":"His talk will be about “Launching the Austrian Airlines Bot and Europe's first Bot-Accelerator” at 13:25 on Master Class",
+        "stage":"Master Class"
+      }
+    ],
+    "sponsors": [
+      {
+        "name":"Casinos Austria",
+        "image_url":"https://c2.staticflickr.com/6/5186/30156637706_fec48de397_o.png",
+        "web_page":"http://www.casinos.at/de/casinos-austria"
+      },
+      {
+        "name":"Österreichnische Lotterien",
+        "image_url":"https://c2.staticflickr.com/8/7721/29646231574_38d9749092_o.png",
+        "web_page":"http://www.lotterien.at/"
+      },
+      {
+        "name":"Cisco",
+        "image_url":"https://c2.staticflickr.com/6/5661/30276894095_e5d45d241f_o.png",
+        "web_page":"https://www.cisco.com/"
+      },
+      {
+        "name":"Vienna Business Agency",
+        "image_url":"https://c2.staticflickr.com/6/5804/30156636766_5544f7cdde_o.png",
+        "web_page":"https://viennabusinessagency.at/"
+      },
+      {
+        "name":"Women Techmakers",
+        "image_url":"https://c1.staticflickr.com/9/8274/30191045995_acbb54b185_o.png",
+        "web_page":"https://www.womentechmakers.com/"
+      },
+      {
+        "name":"Illy",
+        "image_url":"https://c2.staticflickr.com/6/5087/30156637466_f77544ef1a_o.png",
+        "web_page":"http://www.illy.com/wps/wcm/connect/en/home"
+      },
+      {
+        "name":"All I need",
+        "image_url":"https://c2.staticflickr.com/6/5774/30156638016_26b6612af0_o.png",
+        "web_page":"https://allineed.at/"
+      },
+      {
+        "name":"Tagg-it",
+        "image_url":"https://c2.staticflickr.com/6/5094/30191046415_551f9791e2_o.png",
+        "web_page":"http://www.tagg-it.com/en/"
+      },
+      {
+        "name":"oratio",
+        "image_url":"https://c2.staticflickr.com/6/5209/30156637266_0625f6fa09_o.png",
+        "web_page":"https://orat.io/"
+      },
+      {
+        "name":"slido",
+        "image_url":"https://c2.staticflickr.com/6/5457/30156637116_569c4f3cb0_o.png",
+        "web_page":"https://www.sli.do/home"
+      }
+    ],
+    "locations":[
+      {
+        "place":"",
+        "street":"",
+        "transport":""
+      }
+    ],
+    "questions": [
+      {
+        "number":"1",
+        "title":"How to get around in Vienna?",
+        "answer":"In Vienna you can use it for only €7,60 for 24 hours. This includes the metro, tram, bus and S-Bahn. The app 'Quando' easily guides you through the city. For more options you can use Uber or Taxi"
+      },
+      {
+        "number":"2",
+        "title":"How to get to the event location, Studio 44?",
+        "answer":"Studio 44 is situated at Rennweg 44. The closest stop to the address is the station Rennweg. You can reach it with trams O or 71, the bus line 77A or the S-Bahn (lines S1, S2, S3, S4 and S7)."
+      },
+      {
+        "number":"3",
+        "title":"How to get to the afterparty?",
+        "answer":"The location of the afterparty is the Red Room. Its address is Stubenring 20 and you can reach it via the metro U3 Stubentor, tram 2 or bus lines 3A and 74A."
+      },
+      {
+        "number":"4",
+        "title":"How to print #CBC16 photos?",
+        "answer":"Every photo you upload to instagram or twitter with #CBC16 will be printed directly from the #tagg-it printer in the lobby. You can also send the picture to the chatbot via messenger. Give it a try!"
+      },
+      {
+        "number":"5",
+        "title":"Wi-Fi?",
+        "answer":"Wi-Fi: Studio 44, Password: 10Studio"
+      },
+      {
+        "number":"6",
+        "title":"Where can I eat?",
+        "answer":"You can grab something to eat from Hy-kitchen inside the venue. They have awesome burgers! There are also the supermarkets Billa and Spar right across the street."
+      },
+      {
+        "number":"7",
+        "title":"Where can I get a t-shirt?",
+        "answer":"Unfortunately, t-shirts are only for volunteers, but we have awesome stickers and bags that you can get"
+      },
+      {
+        "number":"8",
+        "title":"Couldn’t find what you were looking for?",
+        "answer":"Just ask one of the volunteers and whey will help you :)"
+      }
+    ],
+    "oratio":""
+  }
+}
